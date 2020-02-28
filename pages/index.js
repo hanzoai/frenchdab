@@ -12,6 +12,7 @@ import Copyright from '../components/Copyright'
 import Hero from '../components/Hero'
 
 import ContentSection from '../components/ContentSection'
+import Footer from '../components/Footer'
 import SocialLinks from '../components/SocialLinks'
 
 import { useStore } from '../store'
@@ -311,6 +312,7 @@ export default (props) => {
         </Typography>
       </div>
       <hr className={classes.lineBreak} />
+      <Footer />
       <Copyright title={TITLE} link={SITE_LINK} />
     </>
   )
