@@ -1,1 +1,6 @@
-CLAUDE.md
+# frenchdab
+
+**Org:** hanzoai  ·  **Path:** `/Users/a/work/hanzo/hanzoai/frenchdab`
+**Origin:** git@github.com:hanzoai/frenchdab.git
+
+`CLAUDE.md` is canonical; `LLM.md` symlinks to it. See sibling repos at `/Users/a/work/hanzo/hanzoai/LLM.md`.
