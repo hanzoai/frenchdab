@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="frenchdab" width="880"></p>
+
 # MobX example
 
 ## Deploy your own
